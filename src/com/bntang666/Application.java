@@ -1,0 +1,1 @@
+package com.bntang666;public class Application {    public static void main(String[] args) {        FruitFactory factory = new FruitFactory();        Fruit fruit = factory.produce("apple");        fruit.eat();    }}

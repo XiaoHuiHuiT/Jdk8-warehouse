@@ -1,0 +1,1 @@
+package com.bntang666;public class FruitFactory {    public Fruit produce(String name) {        if ("apple".equals(name)) {            return new Apple();        } else {            return null;        }    }}

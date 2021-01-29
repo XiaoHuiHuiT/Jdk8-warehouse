@@ -1,0 +1,1 @@
+package com.bntang666;public abstract class Fruit {    public abstract void eat();}
